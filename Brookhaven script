@@ -1,0 +1,7 @@
+       irone speed Brookhaven.2.0.txt     inf jump.txt   
+ local  infinitejumpEnabled - true 
+ game:getService("UserInputService")jumpRequest
+   if infinitejumpEnabled than 
+    game:GetService"Players"LocalPlayers.character
+    end
+    end)
